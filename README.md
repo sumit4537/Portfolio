@@ -8,7 +8,7 @@ A modern, fully responsive personal portfolio website built with vanilla HTML, C
 
 ## 📸 Preview
 
-![Portfolio Preview](assets/port.png)
+![Portfolio Preview](assests/port.png)
 
 
 ---
